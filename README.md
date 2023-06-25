@@ -7,7 +7,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-formulario">Formulário</a>
+  <a href="#-produtos">Produtos</a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="formulario" src=".github/preview.png" width="100%">
+  <img alt="imagem com vários produtos eletrônicos como celular, computador e etc" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
